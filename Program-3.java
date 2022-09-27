@@ -7,7 +7,7 @@ public class Main
         int index=0;
         if(n % 2 == 1) {
             
-            //res_list.add(n);
+            
             res_list[index++] = n;
             
             for(int i = 1; i < n; i++) {
